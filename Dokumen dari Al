@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Mahasiswa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="profile-header">
+            <img src="c:\Users\Asus\Downloads\WhatsApp Image 2024-06-05 at 06.09.45 (1).jpeg" height="150" width="200" alt="Foto Profil" class="profile-img">
+            </div>
+
+        <div class="profile-details">
+            <h1>About</h1>
+            <p>Name : Alya Khusnil Kamila </p>
+            <p>Program Studi : Teknik dan Komputer </p>
+            <p>Kampus : Politeknik Pertanian Negeri Samarinda</p>
+            <p>Tempat/Tanggal Lahir: Samarinda, 14 Maret 2005</p>
+            <p>Kota : Samarinda</p>
+            <p>Email : Alyakamila1403@gmail.com</p>
+            <p>Nomor Telepon : 082149650279</p>
+        </div>
+ 
+            <h2>Pendidikan</h2>
+            <ul>
+                <li>TK DDI Samarinda (2010-2011)</li>
+                <li>SD Negeri 001 Samarinda (2011-2017)</li>
+                <li>SMP Negeri 8 Samarinda (2017-2020)</li>
+                <li>SMA Negeri 4 Samarinda (2020-2023)</li>
+            </ul>
+            
+            <h2>Organisasi yang Diikuti</h2>
+            <ul>
+                <li>Anggota HIMA (2024-2025)</li>
+                <li>Anggota FORMADIKSI (2024-2025)</li>
+                <li>Anggota BEM (2024-2025)</li>
+                <li>Anggota EL KALAM (2024-2025)</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
